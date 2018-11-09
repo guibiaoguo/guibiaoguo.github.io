@@ -25,6 +25,11 @@ class test implements Serializable {
   }
 }
 ```
+```java
+class MyClass extends Parent implements Interface {
+  
+}
+```
 ![ls](ls.png)
 
 | name | age | weight |
